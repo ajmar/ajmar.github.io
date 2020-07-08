@@ -1,11 +1,11 @@
 # Site settings
-author: Alexander Marusin
-title: 
+author: Alex Marusin
+title: Time to Pretend
 header-img: img/home-bg.png
 email: amarusin18@gmail.com
-copyright_name: Alexander Marusin
+copyright_name: Alex Marusin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A novice programmers journey through the ether
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ajmar
