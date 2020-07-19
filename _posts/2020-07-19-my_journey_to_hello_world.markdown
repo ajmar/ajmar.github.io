@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Journey to "Hello World!"
-date:       2020-07-19 06:55:46 +0000
+date:       2020-07-19 02:55:47 -0400
 permalink:  my_journey_to_hello_world
 ---
 
