@@ -1,0 +1,13 @@
+---
+layout: post
+title:      "My Journey to "Hello World!"
+date:       2020-07-19 06:55:46 +0000
+permalink:  my_journey_to_hello_world
+---
+
+
+     Hello, world! I'm Alex, and I'm currently a student at the Flatiron School, and I'm just finishing up my First Mile. It's definitely been a long road here. Computer Science has always been an interest of mine as far back as I can remember. In elementary school I can recall my friends and I messing around with the early communicative A.I. called A.L.I.C.E Bot. We asked Alice many questions, and we always got an amusing response. Eventually we all had a pretty good understanding of the mechanisms behind Alice that we could get it to output resonses stratigically by building up the rhetoric a little. This theme of tinkering with things to see how they work continued throughout my life, and is still a fundamental part of who I am today, at the ripe age of 22. Currently I am an automotive technician working in a small shop in a small farm town in rural Colorado. I enjoy working with cars, and it's been a family tradition since before I was born. 
+		 
+		 Back in 2015 I told myself that by the end of 2016 I would learn how to code. I started my journey with free recouses like Codecademy and OpenCourseware, only to find out that college was knocking on my door and I had to choose a path. I wanted to do computer science, however I was discouraged from doing so becuase I'm not a math whiz. I chose philosophy instead. Looking back, I'm quite grateful for my liberal arts education. I learned how to apply different methods of learning and understanding to my life, and I cut my teeth doing argumentation and debate. During my years of acedemic debating, I learned one skill in particular that has helped me immensly in these first few weeks on my journey of learning to code. That skill is logic, specifically conditional logic. Never would I have thought that being a philosophy student would supply me with the tools to think through the complex logic involved in software. It just goes to show that no matter what, if you set your mind on something, it doesn't matter how you get there, just that you do. 
+		 
+		 Several months back I recived an email in my spam folder for this school I had never heard of. I thought it was interesting so I explored it a little. I had always wondered about attending a "coding bootcamp", and thought that I would never be a good fit. Well, low and behold, here I am. I can never be sure how I'll get there, but my journey to becoming a programmer will undoubtedly be filled with incedible experiences and amazing opportunities to learn and deepen my understanding of the world around me. 
